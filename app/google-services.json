@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "560481332848",
+    "firebase_url": "https://belajar-firebase-510b2.firebaseio.com",
+    "project_id": "belajar-firebase-510b2",
+    "storage_bucket": "belajar-firebase-510b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560481332848:android:d411e55b600b3de8c80eb5",
+        "android_client_info": {
+          "package_name": "co.kyozen.belajarfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560481332848-a3uflg1ej8d720cfafd7hhqgjv9j6o0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.kyozen.belajarfirebase",
+            "certificate_hash": "1224f35bb10ed9584df9fb0fbc226d3701eb3808"
+          }
+        },
+        {
+          "client_id": "560481332848-9fdqfkeqagspph7tu9rlt1rqbrdruqtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-tRkoxRHUJVKGs5CMs_LHPYtQlJS3V8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560481332848-9fdqfkeqagspph7tu9rlt1rqbrdruqtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
